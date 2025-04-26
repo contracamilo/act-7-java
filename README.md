@@ -1,4 +1,4 @@
-# Empresa Tecnológica - Sistema de Gestión
+# Ejercicio Empresa Tecnológica 
 
 Este proyecto implementa un sistema básico de gestión para una empresa tecnológica, demostrando conceptos fundamentales de programación orientada a objetos en Java como herencia, polimorfismo y encapsulamiento.
 
